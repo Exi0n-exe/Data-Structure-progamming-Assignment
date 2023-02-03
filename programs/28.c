@@ -1,0 +1,1 @@
+//Write a program in C to find a pair with the given difference.
