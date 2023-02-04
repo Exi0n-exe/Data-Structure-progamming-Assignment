@@ -1,4 +1,4 @@
-//Write a program in C to find a pair with the given difference.
+//Write a program in C to create a singly linked list of n nodes and display it in reverse order
 #include <stdio.h>
 
 void findPairWithDifference(int arr[], int n, int x) {
